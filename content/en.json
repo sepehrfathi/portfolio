@@ -5,8 +5,8 @@
     "locale": "en_US",
     "ogLocale": "en_US",
     "title": "Sepehr Fathi — Software Engineer, Inventor & Founder",
-    "description": "Sepehr Fathi builds real software — from cross-platform Flutter apps and municipal super-apps to AI, computer vision and bioinformatics systems. Inventor of a nano-bubble water purifier, founder & chairman of Vira Web Aria, CEO of Nano Hobab Roshana, senior engineer at Quattro & Nanomarm. Based in Mashhad, Iran.",
-    "keywords": "Sepehr Fathi, software engineer, Flutter developer, inventor, nano-bubble water purifier, founder, Vira Web Aria, Nano Hobab Roshana, Quattro, Nanomarm, prompt engineering, computer vision, bioinformatics, Python, FastAPI, React, PHP, Mashhad"
+    "description": "Sepehr Fathi builds real software — from cross-platform Flutter apps and municipal super-apps to AI, computer vision and bioinformatics systems. Inventor of a nano-bubble water purifier, founder & chairman of Vira Web Aria, CEO of Nano Hobab Roshana, senior engineer at Cuatro & NanoMAR. Based in Mashhad, Iran.",
+    "keywords": "Sepehr Fathi, software engineer, Flutter developer, inventor, nano-bubble water purifier, founder, Vira Web Aria, Nano Hobab Roshana, Cuatro, NanoMAR, prompt engineering, computer vision, bioinformatics, Python, FastAPI, React, PHP, Mashhad"
   },
   "nav": {
     "about": "About",
@@ -39,7 +39,7 @@
     "lead": "I'm a software engineer, inventor and founder who ships real, working systems — not demos.",
     "paragraphs": [
       "I'm Sepehr Fathi. Since 2021 I've worked professionally on software — cross-platform Flutter apps, PWAs, municipal admin panels and citizen super-apps (Bardaskan and others), plus web and backend. I founded Vira Web Aria and today serve as its chairman of the board.",
-      "Today I'm a co-founder of several startups (Shenasnameh Khodro, Masraf, AvaNobat), CEO of Nano Hobab Roshana and the inventor of its nano-bubble water purifier, and a senior engineer for the Norwegian companies Quattro and Nanomarm. Alongside that I build AI and computer-vision systems — an offline Iranian license-plate car-finder, a property-risk platform for Norwegian insurers, and a bioinformatics engine for CAR-T target discovery."
+      "Today I'm a co-founder of several startups (Shenasnameh Khodro, Masraf, AvaNobat), CEO of Nano Hobab Roshana and the inventor of its nano-bubble water purifier, and a senior engineer for the Norwegian companies Cuatro and NanoMAR. Alongside that I build AI and computer-vision systems — an offline Iranian license-plate car-finder, a property-risk platform for Norwegian insurers, and a bioinformatics engine for CAR-T target discovery."
     ],
     "chips": ["Flutter", "Python", "React", "AI & Computer Vision", "Bioinformatics", "Inventor"]
   },
@@ -50,7 +50,7 @@
       { "org": "Vira Web Aria (Onwebs)", "role": "Founder & Chairman of the Board", "type": "Chairman", "detail": "I founded Vira Web Aria — the company behind the Onwebs digital agency (web, apps, design, SEO & marketing) and its product R&D — and chair its board.", "location": "Mashhad, Iran" },
       { "org": "Nano Hobab Roshana", "role": "CEO & Inventor", "type": "CEO", "detail": "CEO of the company commercialising the nano-bubble water-treatment device I invented.", "location": "Iran" },
       { "org": "Shenasnameh Khodro, Masraf, AvaNobat", "role": "Co-founder", "type": "Co-founder", "detail": "Co-founder of several product startups — a vehicle-identity platform, a consumption-tracking app and an appointment/booking app.", "location": "Iran" },
-      { "org": "Quattro & Nanomarm", "role": "Senior Software Engineer", "type": "Senior Engineer", "detail": "Senior developer building AI-driven and geospatial platforms — including a Norwegian property-risk system — for two technology companies.", "location": "Norway" }
+      { "org": "Cuatro & NanoMAR", "role": "Senior Software Engineer", "type": "Senior Engineer", "detail": "Senior developer building AI-driven and geospatial platforms — including a Norwegian property-risk system — for two technology companies.", "location": "Norway" }
     ]
   },
   "ventures": {

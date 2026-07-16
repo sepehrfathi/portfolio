@@ -5,8 +5,8 @@
     "locale": "nb_NO",
     "ogLocale": "nb_NO",
     "title": "Sepehr Fathi — programvareingeniør, oppfinner og gründer",
-    "description": "Sepehr Fathi bygger ekte programvare — fra kryssplattform Flutter-apper og kommunale superapper til systemer for AI, datasyn og bioinformatikk. Oppfinner av et nanoboble-vannrenseanlegg, grunnlegger og styreleder i Vira Web Aria, administrerende direktør i Nano Hobab Roshana, senioringeniør hos Quattro og Nanomarm. Basert i Mashhad, Iran.",
-    "keywords": "Sepehr Fathi, programvareingeniør, Flutter-utvikler, oppfinner, nanoboble-vannrenseanlegg, grunnlegger, Vira Web Aria, Nano Hobab Roshana, Quattro, Nanomarm, prompt engineering, datasyn, bioinformatikk, Python, FastAPI, React, PHP, Mashhad"
+    "description": "Sepehr Fathi bygger ekte programvare — fra kryssplattform Flutter-apper og kommunale superapper til systemer for AI, datasyn og bioinformatikk. Oppfinner av et nanoboble-vannrenseanlegg, grunnlegger og styreleder i Vira Web Aria, administrerende direktør i Nano Hobab Roshana, senioringeniør hos Cuatro og NanoMAR. Basert i Mashhad, Iran.",
+    "keywords": "Sepehr Fathi, programvareingeniør, Flutter-utvikler, oppfinner, nanoboble-vannrenseanlegg, grunnlegger, Vira Web Aria, Nano Hobab Roshana, Cuatro, NanoMAR, prompt engineering, datasyn, bioinformatikk, Python, FastAPI, React, PHP, Mashhad"
   },
   "nav": {
     "about": "Om meg",
@@ -39,7 +39,7 @@
     "lead": "Jeg er programvareingeniør, oppfinner og gründer som leverer ekte, fungerende systemer — ikke demoer.",
     "paragraphs": [
       "Jeg er Sepehr Fathi. Siden 2021 har jeg jobbet profesjonelt med programvare — kryssplattform Flutter-apper, PWA-er, kommunale administrasjonspaneler og superapper for innbyggere (Bardaskan med flere), i tillegg til web og backend. Jeg grunnla Vira Web Aria og er i dag styreleder i selskapet.",
-      "I dag er jeg medgründer i flere oppstartsbedrifter (Shenasnameh Khodro, Masraf, AvaNobat), administrerende direktør i Nano Hobab Roshana og oppfinner av selskapets nanoboble-vannrenseanlegg, samt senioringeniør for de norske selskapene Quattro og Nanomarm. Ved siden av dette bygger jeg systemer for AI og datasyn — en frakoblet iransk skiltbasert bilfinner, en plattform for eiendomsrisiko rettet mot norske forsikringsselskaper, og en bioinformatikkmotor for oppdagelse av CAR-T-mål."
+      "I dag er jeg medgründer i flere oppstartsbedrifter (Shenasnameh Khodro, Masraf, AvaNobat), administrerende direktør i Nano Hobab Roshana og oppfinner av selskapets nanoboble-vannrenseanlegg, samt senioringeniør for de norske selskapene Cuatro og NanoMAR. Ved siden av dette bygger jeg systemer for AI og datasyn — en frakoblet iransk skiltbasert bilfinner, en plattform for eiendomsrisiko rettet mot norske forsikringsselskaper, og en bioinformatikkmotor for oppdagelse av CAR-T-mål."
     ],
     "chips": ["Flutter", "Python", "React", "AI og datasyn", "Bioinformatikk", "Oppfinner"]
   },
@@ -50,7 +50,7 @@
       { "org": "Vira Web Aria (Onwebs)", "role": "Grunnlegger og styreleder", "type": "Styreleder", "detail": "Jeg grunnla Vira Web Aria — selskapet bak digitalbyrået Onwebs (web, apper, design, SEO og markedsføring) og produktutviklingen deres — og er styreleder.", "location": "Mashhad, Iran" },
       { "org": "Nano Hobab Roshana", "role": "Administrerende direktør og oppfinner", "type": "Adm. dir.", "detail": "Administrerende direktør i selskapet som kommersialiserer nanoboble-vannbehandlingsanlegget jeg fant opp.", "location": "Iran" },
       { "org": "Shenasnameh Khodro, Masraf, AvaNobat", "role": "Medgründer", "type": "Medgründer", "detail": "Medgründer i flere produktoppstart — en plattform for kjøretøyidentitet, en app for forbruksovervåking og en app for timebestilling.", "location": "Iran" },
-      { "org": "Quattro og Nanomarm", "role": "Senior programvareingeniør", "type": "Senioringeniør", "detail": "Seniorutvikler som bygger AI-drevne og geospatiale plattformer — inkludert et norsk system for eiendomsrisiko — for to teknologiselskaper.", "location": "Norge" }
+      { "org": "Cuatro og NanoMAR", "role": "Senior programvareingeniør", "type": "Senioringeniør", "detail": "Seniorutvikler som bygger AI-drevne og geospatiale plattformer — inkludert et norsk system for eiendomsrisiko — for to teknologiselskaper.", "location": "Norge" }
     ]
   },
   "ventures": {

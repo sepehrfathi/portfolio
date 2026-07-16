@@ -5,8 +5,8 @@
     "locale": "zh_CN",
     "ogLocale": "zh_CN",
     "title": "塞佩尔·法蒂（Sepehr Fathi）— 软件工程师、发明家与创始人",
-    "description": "塞佩尔·法蒂打造真正可用的软件——从跨平台 Flutter 应用、市政超级应用，到人工智能、计算机视觉与生物信息学系统。纳米气泡水净化装置发明人，Vira Web Aria 创始人兼董事长，Nano Hobab Roshana 首席执行官，Quattro 与 Nanomarm 资深工程师。常驻伊朗马什哈德。",
-    "keywords": "塞佩尔·法蒂, 软件工程师, Flutter 开发者, 发明家, 纳米气泡水净化装置, 创始人, Vira Web Aria, Nano Hobab Roshana, Quattro, Nanomarm, 提示词工程, 计算机视觉, 生物信息学, Python, FastAPI, React, PHP, 马什哈德"
+    "description": "塞佩尔·法蒂打造真正可用的软件——从跨平台 Flutter 应用、市政超级应用，到人工智能、计算机视觉与生物信息学系统。纳米气泡水净化装置发明人，Vira Web Aria 创始人兼董事长，Nano Hobab Roshana 首席执行官，Cuatro 与 NanoMAR 资深工程师。常驻伊朗马什哈德。",
+    "keywords": "塞佩尔·法蒂, 软件工程师, Flutter 开发者, 发明家, 纳米气泡水净化装置, 创始人, Vira Web Aria, Nano Hobab Roshana, Cuatro, NanoMAR, 提示词工程, 计算机视觉, 生物信息学, Python, FastAPI, React, PHP, 马什哈德"
   },
   "nav": {
     "about": "关于",
@@ -39,7 +39,7 @@
     "lead": "我是一名软件工程师、发明家与创始人，交付的是真正可用的系统——而非演示品。",
     "paragraphs": [
       "我是塞佩尔·法蒂。自 2021 年起，我便专职从事软件工作——跨平台 Flutter 应用、PWA、市政管理后台与市民超级应用（Bardaskan 等），以及 Web 与后端开发。我创立了 Vira Web Aria，如今担任其董事长。",
-      "如今我是多家初创企业（Shenasnameh Khodro、Masraf、AvaNobat）的联合创始人、Nano Hobab Roshana 首席执行官及其纳米气泡水净化装置的发明人，同时担任挪威公司 Quattro 与 Nanomarm 的资深工程师。除此之外，我还构建人工智能与计算机视觉系统——一款离线运行的伊朗车牌寻车工具、一个面向挪威保险公司的房产风险评估平台，以及一个用于 CAR-T 靶点发现的生物信息学引擎。"
+      "如今我是多家初创企业（Shenasnameh Khodro、Masraf、AvaNobat）的联合创始人、Nano Hobab Roshana 首席执行官及其纳米气泡水净化装置的发明人，同时担任挪威公司 Cuatro 与 NanoMAR 的资深工程师。除此之外，我还构建人工智能与计算机视觉系统——一款离线运行的伊朗车牌寻车工具、一个面向挪威保险公司的房产风险评估平台，以及一个用于 CAR-T 靶点发现的生物信息学引擎。"
     ],
     "chips": ["Flutter", "Python", "React", "人工智能与计算机视觉", "生物信息学", "发明家"]
   },
@@ -50,7 +50,7 @@
       { "org": "Vira Web Aria（onwebs）", "role": "创始人兼董事长", "type": "董事长", "detail": "我创立了 Vira Web Aria——onwebs 数字代理机构（网站、应用、设计、SEO 与营销）及其产品研发部门的母公司——并担任其董事长。", "location": "伊朗马什哈德" },
       { "org": "Nano Hobab Roshana", "role": "首席执行官兼发明人", "type": "首席执行官", "detail": "该公司负责将我发明的纳米气泡水处理装置商业化，我任其首席执行官。", "location": "伊朗" },
       { "org": "Shenasnameh Khodro、Masraf、AvaNobat", "role": "联合创始人", "type": "联合创始人", "detail": "多家产品型初创企业的联合创始人——一个车辆身份平台、一款消费追踪应用，以及一款预约挂号应用。", "location": "伊朗" },
-      { "org": "Quattro 与 Nanomarm", "role": "资深软件工程师", "type": "资深工程师", "detail": "为两家科技公司构建人工智能驱动与地理空间平台的资深开发者——包括一套挪威房产风险系统。", "location": "挪威" }
+      { "org": "Cuatro 与 NanoMAR", "role": "资深软件工程师", "type": "资深工程师", "detail": "为两家科技公司构建人工智能驱动与地理空间平台的资深开发者——包括一套挪威房产风险系统。", "location": "挪威" }
     ]
   },
   "ventures": {

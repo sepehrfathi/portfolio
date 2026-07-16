@@ -5,8 +5,8 @@
     "locale": "es_ES",
     "ogLocale": "es_ES",
     "title": "Sepehr Fathi — Ingeniero de software, inventor y fundador",
-    "description": "Sepehr Fathi crea software real — desde apps multiplataforma en Flutter y superapps municipales hasta sistemas de IA, visión por computador y bioinformática. Inventor de un purificador de agua por nanoburbujas, fundador y presidente de Vira Web Aria, CEO de Nano Hobab Roshana, ingeniero sénior en Quattro y Nanomarm. Con base en Mashhad, Irán.",
-    "keywords": "Sepehr Fathi, ingeniero de software, desarrollador Flutter, inventor, purificador de agua por nanoburbujas, fundador, Vira Web Aria, Nano Hobab Roshana, Quattro, Nanomarm, ingeniería de prompts, visión por computador, bioinformática, Python, FastAPI, React, PHP, Mashhad"
+    "description": "Sepehr Fathi crea software real — desde apps multiplataforma en Flutter y superapps municipales hasta sistemas de IA, visión por computador y bioinformática. Inventor de un purificador de agua por nanoburbujas, fundador y presidente de Vira Web Aria, CEO de Nano Hobab Roshana, ingeniero sénior en Cuatro y NanoMAR. Con base en Mashhad, Irán.",
+    "keywords": "Sepehr Fathi, ingeniero de software, desarrollador Flutter, inventor, purificador de agua por nanoburbujas, fundador, Vira Web Aria, Nano Hobab Roshana, Cuatro, NanoMAR, ingeniería de prompts, visión por computador, bioinformática, Python, FastAPI, React, PHP, Mashhad"
   },
   "nav": {
     "about": "Perfil",
@@ -39,7 +39,7 @@
     "lead": "Soy ingeniero de software, inventor y fundador que entrega sistemas reales y funcionales — no demos.",
     "paragraphs": [
       "Soy Sepehr Fathi. Desde 2021 trabajo profesionalmente en software — apps multiplataforma en Flutter, PWAs, paneles de administración municipal y superapps ciudadanas (Bardaskan y otras), además de web y backend. Fundé Vira Web Aria y hoy soy presidente de su consejo de administración.",
-      "Hoy soy cofundador de varias startups (Shenasnameh Khodro, Masraf, AvaNobat), CEO de Nano Hobab Roshana e inventor de su purificador de agua por nanoburbujas, e ingeniero sénior de las empresas noruegas Quattro y Nanomarm. Junto a eso construyo sistemas de IA y visión por computador — un localizador de coches offline por matrículas iraníes, una plataforma de riesgo inmobiliario para aseguradoras noruegas y un motor de bioinformática para el descubrimiento de dianas CAR-T."
+      "Hoy soy cofundador de varias startups (Shenasnameh Khodro, Masraf, AvaNobat), CEO de Nano Hobab Roshana e inventor de su purificador de agua por nanoburbujas, e ingeniero sénior de las empresas noruegas Cuatro y NanoMAR. Junto a eso construyo sistemas de IA y visión por computador — un localizador de coches offline por matrículas iraníes, una plataforma de riesgo inmobiliario para aseguradoras noruegas y un motor de bioinformática para el descubrimiento de dianas CAR-T."
     ],
     "chips": ["Flutter", "Python", "React", "IA y visión por computador", "Bioinformática", "Inventor"]
   },
@@ -50,7 +50,7 @@
       { "org": "Vira Web Aria (Onwebs)", "role": "Fundador y presidente del consejo", "type": "Presidente", "detail": "Fundé Vira Web Aria — la empresa detrás de la agencia digital Onwebs (web, apps, diseño, SEO y marketing) y de su I+D de producto — y presido su consejo.", "location": "Mashhad, Irán" },
       { "org": "Nano Hobab Roshana", "role": "CEO e inventor", "type": "CEO", "detail": "CEO de la empresa que comercializa el dispositivo de tratamiento de agua por nanoburbujas que inventé.", "location": "Irán" },
       { "org": "Shenasnameh Khodro, Masraf, AvaNobat", "role": "Cofundador", "type": "Cofundador", "detail": "Cofundador de varias startups de producto — una plataforma de identidad vehicular, una app de seguimiento de consumo y una app de reservas y citas.", "location": "Irán" },
-      { "org": "Quattro y Nanomarm", "role": "Ingeniero de software sénior", "type": "Ingeniero sénior", "detail": "Desarrollador sénior que construye plataformas basadas en IA y geoespaciales — incluido un sistema noruego de riesgo inmobiliario — para dos empresas tecnológicas.", "location": "Noruega" }
+      { "org": "Cuatro y NanoMAR", "role": "Ingeniero de software sénior", "type": "Ingeniero sénior", "detail": "Desarrollador sénior que construye plataformas basadas en IA y geoespaciales — incluido un sistema noruego de riesgo inmobiliario — para dos empresas tecnológicas.", "location": "Noruega" }
     ]
   },
   "ventures": {
