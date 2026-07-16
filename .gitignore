@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# editors
+.vscode/
+
+# dependencies / build artifacts
+node_modules/
+*.zip
+
+# old site backup (kept locally, not part of the site)
+_old_backup/
+
+# unused legacy screenshots from the previous site
+assets/images/[0-9]*.webp
+assets/images/perfil.webp
+assets/images/Subject*.webp

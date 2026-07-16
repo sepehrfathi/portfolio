@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "lang": "nb",
+    "dir": "ltr",
+    "locale": "nb_NO",
+    "ogLocale": "nb_NO",
+    "title": "Sepehr Fathi — programvareingeniør, oppfinner og gründer",
+    "description": "Sepehr Fathi bygger ekte programvare — fra kryssplattform Flutter-apper og kommunale superapper til systemer for AI, datasyn og bioinformatikk. Oppfinner av et nanoboble-vannrenseanlegg, grunnlegger og styreleder i Vira Web Aria, administrerende direktør i Nano Hobab Roshana, senioringeniør hos Quattro og Nanomarm. Basert i Mashhad, Iran.",
+    "keywords": "Sepehr Fathi, programvareingeniør, Flutter-utvikler, oppfinner, nanoboble-vannrenseanlegg, grunnlegger, Vira Web Aria, Nano Hobab Roshana, Quattro, Nanomarm, prompt engineering, datasyn, bioinformatikk, Python, FastAPI, React, PHP, Mashhad"
+  },
+  "nav": {
+    "about": "Om meg",
+    "roles": "Roller",
+    "ventures": "Arbeid",
+    "skills": "Ferdigheter",
+    "prompt": "Prompt Engineering",
+    "work": "Flere prosjekter",
+    "contact": "Kontakt",
+    "resume": "Last ned CV"
+  },
+  "hero": {
+    "eyebrow": "Programvareingeniør · Oppfinner · Gründer",
+    "name": "Sepehr Fathi",
+    "roleLine": "Jeg bygger programvare som faktisk fungerer — fra kryssplattform Flutter-apper til systemer for AI og datasyn — og jeg har en egen oppfinnelse: et nanoboble-vannrenseanlegg.",
+    "location": "Mashhad, Iran",
+    "photoAlt": "Sepehr Fathi",
+    "ctaResume": "Last ned CV",
+    "ctaContact": "Ta kontakt",
+    "ctaWork": "Se arbeidet"
+  },
+  "highlights": [
+    { "value": "87+", "label": "Prosjekter levert" },
+    { "value": "6+", "label": "Selskaper og oppstartsbedrifter" },
+    { "value": "5+", "label": "Års erfaring" },
+    { "value": "1", "label": "Oppfinnelse — nanoboble-vannrenseanlegg" }
+  ],
+  "about": {
+    "title": "Om meg",
+    "lead": "Jeg er programvareingeniør, oppfinner og gründer som leverer ekte, fungerende systemer — ikke demoer.",
+    "paragraphs": [
+      "Jeg er Sepehr Fathi. Siden 2021 har jeg jobbet profesjonelt med programvare — kryssplattform Flutter-apper, PWA-er, kommunale administrasjonspaneler og superapper for innbyggere (Bardaskan med flere), i tillegg til web og backend. Jeg grunnla Vira Web Aria og er i dag styreleder i selskapet.",
+      "I dag er jeg medgründer i flere oppstartsbedrifter (Shenasnameh Khodro, Masraf, AvaNobat), administrerende direktør i Nano Hobab Roshana og oppfinner av selskapets nanoboble-vannrenseanlegg, samt senioringeniør for de norske selskapene Quattro og Nanomarm. Ved siden av dette bygger jeg systemer for AI og datasyn — en frakoblet iransk skiltbasert bilfinner, en plattform for eiendomsrisiko rettet mot norske forsikringsselskaper, og en bioinformatikkmotor for oppdagelse av CAR-T-mål."
+    ],
+    "chips": ["Flutter", "Python", "React", "AI og datasyn", "Bioinformatikk", "Oppfinner"]
+  },
+  "roles": {
+    "title": "Roller og lederskap",
+    "subtitle": "Grunnlegging, styreledelse, ledelse og bygging — på tvers av produkt, teknologi og FoU.",
+    "items": [
+      { "org": "Vira Web Aria (Onwebs)", "role": "Grunnlegger og styreleder", "type": "Styreleder", "detail": "Jeg grunnla Vira Web Aria — selskapet bak digitalbyrået Onwebs (web, apper, design, SEO og markedsføring) og produktutviklingen deres — og er styreleder.", "location": "Mashhad, Iran" },
+      { "org": "Nano Hobab Roshana", "role": "Administrerende direktør og oppfinner", "type": "Adm. dir.", "detail": "Administrerende direktør i selskapet som kommersialiserer nanoboble-vannbehandlingsanlegget jeg fant opp.", "location": "Iran" },
+      { "org": "Shenasnameh Khodro, Masraf, AvaNobat", "role": "Medgründer", "type": "Medgründer", "detail": "Medgründer i flere produktoppstart — en plattform for kjøretøyidentitet, en app for forbruksovervåking og en app for timebestilling.", "location": "Iran" },
+      { "org": "Quattro og Nanomarm", "role": "Senior programvareingeniør", "type": "Senioringeniør", "detail": "Seniorutvikler som bygger AI-drevne og geospatiale plattformer — inkludert et norsk system for eiendomsrisiko — for to teknologiselskaper.", "location": "Norge" }
+    ]
+  },
+  "ventures": {
+    "title": "Utvalgt arbeid",
+    "subtitle": "Noen systemer som viser bredden — hvert av dem ekte og levert.",
+    "items": [
+      {
+        "name": "PlateYab",
+        "kicker": "Datasyn",
+        "summary": "En lokal, smart bilfinner for parkeringsplasser som leser iranske bilskilt fra eksisterende kameraer og viser en besøkende nøyaktig hvor bilen står — med et bilde — på sekunder, og kjører i sin helhet på én mini-PC inne i bygget (en ekte ALPR-kiosk med et LAN-administrasjonspanel).",
+        "points": [
+          "Fusjon av bevis fra flere bildeutsnitt løfter nøyaktigheten fra 79,4 % (enkeltbilde) til målte 98,3 % per bil — kjerneinnovasjonen.",
+          "99,08 % nøyaktighet for tegnklassifisereren på 8 383 reelle testprøver; en segmenteringsfri CRNN+CTC-leser håndterer hele skiltet på én gang.",
+          "Aktiv læring med menneske i sløyfen finjusterer modellen på stedet, ut fra parkeringsplassens egne opptak.",
+          "Helt frakoblet og lokalisert: Jalali-kalender, persisk RTL-PDF, sikkerhet med argon2/CSRF/RBAC."
+        ],
+        "stack": ["Python", "YOLOv8", "CRNN+CTC", "ONNX Runtime", "FastAPI", "SQLite"],
+        "metric": { "value": "98,3 %", "label": "skiltnøyaktighet per bil" }
+      },
+      {
+        "name": "Aerial Object Detection",
+        "kicker": "Datasyn",
+        "summary": "En YOLOv8-basert objektdeteksjonsmodell som oppdager flygende objekter — fugler, fly og andre objekter i luften — i bilder, opptak og direkte webkamera, pakket inn i en lokal webapp som kjører fullstendig på din egen maskin.",
+        "points": [
+          "Deteksjon av objekter i luften i sanntid og med flere klasser (fugler, fly og mer).",
+          "Tre inndatamoduser — enkeltbilde, videofil og direkte webkamera — bak ett rent, lokalt webgrensesnitt.",
+          "YOLOv8-inferens med en lettvekts JavaScript-frontend; ingenting forlater enheten."
+        ],
+        "stack": ["YOLOv8", "Python", "JavaScript", "Lokal webapp"],
+        "metric": { "value": "Sanntid", "label": "fugl · fly · luftrom" }
+      },
+      {
+        "name": "NanoSWIM",
+        "kicker": "Oppfinnelse · Deep-tech",
+        "summary": "En nanoboble-vannbehandlingsteknologi jeg fant opp — klorfri desinfeksjon av vann ved hjelp av nanobobler — kommersialisert gjennom Nano Hobab Roshana (Iran) og NanoMAR AS (Norge). Fysisk deep-tech tatt fra idé til produkt.",
+        "points": [
+          "En original nanoboble-tilnærming til klorfri desinfeksjon og rensing av vann.",
+          "Tatt fra oppfinnelse til reelle selskaper (Nano Hobab Roshana, NanoMAR AS) som driver den mot markedet.",
+          "Bygger bro mellom fysisk maskinvare-FoU og de tospråklige produktsidene og programvaren som støtter den."
+        ],
+        "stack": ["Nanoboble-teknologi", "Maskinvare-FoU", "Produkt"],
+        "metric": { "value": "Oppfinnelse", "label": "klorfri, under kommersialisering" }
+      },
+      {
+        "name": "HomAI · Cuatro",
+        "kicker": "Geospatial AI · Norge",
+        "summary": "En webplattform (nå V4) som produserer forsikringsklare risikorapporter for tak og eiendom for norske adresser, ved å kombinere offisielle registre, sanntidsdata om klimafarer, LiDAR-terreng og multimodalt AI-syn med en deterministisk, sporbar scoringsmotor.",
+        "points": [
+          "AI-en oppfatter og forteller, men eksplisitt kode bestemmer — modellen setter aldri en risikoscore.",
+          "Ti vektede risikofaktorer med en transparent formel; de samme inndataene gir alltid samme score.",
+          "Sanntidsdata fra norske myndigheter (Kartverket, NVE, MET, NIBIO) pluss LiDAR-relieff for ekte 3D-takform."
+        ],
+        "stack": ["Next.js", "FastAPI", "Multimodalt LLM-syn", "LiDAR", "Offentlige geodata-APIer"],
+        "metric": { "value": "10", "label": "sporbare risikofaktorer" }
+      },
+      {
+        "name": "CAR-T Target Discovery",
+        "kicker": "Bioinformatikk · Onkologi",
+        "summary": "Et fullstack-system som identifiserer og rangerer kandidater til målantigener for utforming av CAR-T-celleterapi ut fra reelle genomiske data fra NCBI GEO — et stringent, hypotesegenererende forskningsverktøy med et AI-tolkningslag.",
+        "points": [
+          "Femtrinnspipeline: datainnhenting (NCBI GEO) → differensiell ekspresjon → filter for overflateantigener (UniProt, GO terms) → scoring → visualisering.",
+          "Validert ved å gjenoppdage klinisk godkjente mål: CD19 i ALL (rang 1), CD33 og FLT3 i AML, HER2/MUC1/EpCAM i brystkreft.",
+          "FastAPI-pipeline + et React/Recharts-dashbord; AI-laget håndhever vitenskapelig varsomhet og fremsetter ingen kliniske påstander."
+        ],
+        "stack": ["Python", "FastAPI", "React", "Recharts", "pandas/scipy"],
+        "metric": { "value": "#1", "label": "rang for CD19 i ALL" }
+      },
+      {
+        "name": "PrismBench",
+        "kicker": "AI SaaS",
+        "summary": "En PHP-plattform for å sammenligne, prise og videreselge meldinger fra AI (LLM) med flere modeller — med brukerlommebok og betalingsløsning — som gjør tilgang til flere modeller om til et salgbart produkt.",
+        "points": [
+          "Side-om-side-sammenligning og prising på tvers av flere AI-modeller.",
+          "Innebygd lommebok og betalingsløsning for å selge AI-meldingskreditt.",
+          "Et komplett, selvhostet PHP-panel — ingen rammeverksinnlåsing."
+        ],
+        "stack": ["PHP", "MySQL", "AI-modell-APIer", "Betalingsløsning"],
+        "metric": { "value": "Flermodell", "label": "sammenlign · pris · selg" }
+      }
+    ]
+  },
+  "prompt": {
+    "kicker": "Signaturferdighet",
+    "title": "Prompt Engineering",
+    "lead": "Jeg gjør språk- og synsmodeller til produksjonssystemer der korrekthet, sikkerhet og reproduserbarhet betyr noe — ikke chatboter, men AI-komponenter med strenge kontrakter, testet som all annen kritisk kode.",
+    "points": [
+      { "title": "Kontrakter med streng skjema", "text": "Hvert modellsvar valideres mot JSON og klemmes fast til enums og verdiområder i kode. Overflødige nøkler og verdier utenfor området forkastes før de når en bruker — modellen foreslår, skjemaet avgjør." },
+      { "title": "Ansvarsdeling", "text": "Modellen oppfatter eller forteller; deterministisk kode bestemmer. I min norske risikoplattform beskriver AI-synet taket, men eksplisitt kode setter scoren — modellen tar aldri den kliniske eller finansielle avgjørelsen." },
+      { "title": "Determinisme og reproduserbarhet", "text": "Temperatur 0 for persepsjon og klassifisering, lav temperatur for fortelling, og innholdshash-basert bufring. Samme inndata, samme utdata — en forutsetning for alt som skal kunne revideres." },
+      { "title": "Vern mot hallusinasjoner", "text": "Ukjent betyr null og lavere konfidens, aldri en oppdiktet gjetning. Ikke-vurderte tilstander vises eksplisitt, og varsomhet håndheves av selve prompten." },
+      { "title": "Systematiske resonneringsmetoder", "text": "Strukturerte prompt-metoder — kvadrant-for-kvadrant-telling, tell-én-gang-på-tvers-av-bilder, vekting av bevis — som gjør en modell målbart og repeterbart mer pålitelig på krevende, virkelige inndata." },
+      { "title": "AI på enheten", "text": "Integrering av språk- og synsmodeller lokalt, under stramme begrensninger, slik at intelligente systemer fortsetter å fungere der sky-AI ikke kan." }
+    ],
+    "note": "Dette er ikke abstraksjoner — hvert prinsipp her er bærende i et system jeg har levert."
+  },
+  "skills": {
+    "title": "Ferdigheter og teknologier",
+    "subtitle": "Det jeg faktisk jobber med, dag ut og dag inn.",
+    "groups": [
+      { "name": "Prompt Engineering og anvendt AI", "featured": true, "items": ["Produksjonssystemer med LLM", "Design av streng JSON-skjema", "Verktøy-/funksjonskall", "Multimodal syns-prompting", "Determinisme og evaluering", "Vern mot hallusinasjoner", "RAG", "Integrering av LLM på enheten"] },
+      { "name": "Flutter og mobil", "items": ["Flutter", "Dart", "Clean Architecture", "BLoC / Provider", "Animasjoner", "PWA", "CI/CD (GitHub Actions)", "iOS / Android / Web"] },
+      { "name": "Web og frontend", "items": ["React", "Next.js", "Vite", "JavaScript", "TypeScript", "Three.js", "HTML5 / CSS3", "RTL / LTR og i18n", "Flerspråklig SEO"] },
+      { "name": "Backend og APIer", "items": ["Python", "FastAPI", "PHP", "Laravel", "WordPress / WooCommerce", "REST-APIer", "WebSocket", "JWT / autentisering"] },
+      { "name": "Databaser og infrastruktur", "items": ["MySQL", "SQLite / SQLAlchemy", "Firebase / Firestore", "PocketBase", "Linux", "argon2 / CSRF / RBAC"] },
+      { "name": "AI · Datasyn · ML", "items": ["YOLOv8", "CRNN + CTC", "ONNX Runtime", "PyTorch", "Multimodalt LLM-syn", "Finjustering av modeller", "Syntetiske data", "Aktiv læring"] },
+      { "name": "Data, bioinformatikk og geospatial", "items": ["pandas / numpy / scipy", "Statistisk analyse", "GEO / UniProt / GO terms", "GIS og geodata", "LiDAR-terreng", "Risikomodellering"] },
+      { "name": "Produkt og lederskap", "items": ["Grunnlegger og styre", "Teamledelse", "FoU-ledelse", "Oppfinnelse og patenter", "Tekniske forslag"] }
+    ]
+  },
+  "work": {
+    "title": "Flere prosjekter",
+    "subtitle": "Et bredere utvalg av leverte apper, dashbord og nettsteder.",
+    "note": "Noe av koden er offentlig på GitHub; jeg går gjerne gjennom hva som helst av det på forespørsel.",
+    "items": [
+      { "title": "AvaNobat — plattform for legetimebestilling (medgründer)", "tag": "Web" },
+      { "title": "TAKTIC Sportswear — system for ordrehåndtering", "tag": "PHP · MySQL" },
+      { "title": "WooCommerce-redigering av produkter i bulk (WordPress-plugin)", "tag": "WordPress · Offentlig" },
+      { "title": "onwebs WooCommerce-ordresporing", "tag": "WordPress · Offentlig" },
+      { "title": "Bimeh-Bar — fraktforsikring med videosamtalerom", "tag": "PHP" },
+      { "title": "Bina — regnskapssystem", "tag": "PHP" },
+      { "title": "Bardaskan superapp for innbyggere", "tag": "Mobil" },
+      { "title": "Kit Smart app og nettsted", "tag": "Mobil · Web" },
+      { "title": "Tatoboom — butikk for tatoveringsutstyr", "tag": "Web" },
+      { "title": "Etemadioon", "tag": "Web" },
+      { "title": "IMMERS kontrolldashbord for ubåt", "tag": "Web" },
+      { "title": "CUATRO × HomAI panelstakk", "tag": "PHP" },
+      { "title": "onwebs firmanettsted", "tag": "Web" },
+      { "title": "Ferdowsi University fagverkssimulator", "tag": "Web" }
+    ]
+  },
+  "gallery": {
+    "title": "Onwebs — utvalgt kundearbeid",
+    "subtitle": "Nettsteder og plattformer levert under Onwebs (Vira Web Aria), byrået jeg grunnla."
+  },
+  "contact": {
+    "title": "La oss bygge noe",
+    "subtitle": "Ta kontakt",
+    "lead": "En produktidé, et AI-system som må være korrekt, eller et deep-tech-samarbeid — jeg vil gjerne høre om det.",
+    "emailLabel": "E-post",
+    "email": "ftsepi@gmail.com",
+    "cta": "Send meg en e-post",
+    "copy": "Kopier",
+    "copied": "Kopiert",
+    "channels": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "telegram": "Telegram",
+      "location": "Mashhad, Iran"
+    }
+  },
+  "footer": {
+    "rights": "Med enerett."
+  },
+  "resume": {
+    "title": "CV",
+    "summary": "Sammendrag",
+    "highlights": "Høydepunkter",
+    "experience": "Erfaring",
+    "ventures": "Utvalgt arbeid",
+    "skills": "Ferdigheter",
+    "work": "Flere prosjekter",
+    "contact": "Kontakt",
+    "present": "Nå"
+  },
+  "ui": {
+    "language": "Språk",
+    "theme": "Tema",
+    "themeLight": "Lyst",
+    "themeDark": "Mørkt",
+    "menu": "Meny",
+    "close": "Lukk",
+    "top": "Tilbake til toppen",
+    "printHint": "Tips: velg «Lagre som PDF» i utskriftsdialogen."
+  }
+}

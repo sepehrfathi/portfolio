@@ -1,0 +1,25 @@
+{
+  "name": "Sepehr Fathi",
+  "short_name": "Sepehr Fathi",
+  "description": "Deep-tech founder & senior software engineer.",
+  "start_url": "/fa/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fcfcfb",
+  "theme_color": "#0a7c6f",
+  "lang": "fa",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
