@@ -1,0 +1,29 @@
+Create a completely NEW, photorealistic professional portrait of Sepehr Fathi using all three uploaded photographs strictly as identity references.
+
+IDENTITY MAP
+- In uploaded images 1 and 2, Sepehr is the slim young man with black rectangular eyeglasses on the RIGHT.
+- In uploaded image 3, Sepehr is the young man with black rectangular eyeglasses on the LEFT.
+- The other people are not part of the portrait. Do not include or blend their facial features into Sepehr.
+
+IDENTITY PRESERVATION
+Preserve Sepehr's real, recognizable identity with very high fidelity: his exact facial proportions, eye shape, eyebrows, nose, lips, jawline, ears, natural skin tone, current age, short black hairstyle, black rectangular glasses, and neatly trimmed moustache and beard. He must clearly look like the same real person in the references. Do not beautify, reshape, age, de-age, or change his ethnicity.
+
+WARDROBE
+Dress Sepehr in a beautiful, luxurious deep emerald-green knitted pullover sweater — absolutely no jacket, blazer, suit coat, lapels, shirt collar, or tie. The pullover should have a refined modern mock neck, a clean fitted silhouette, and naturally structured shoulders. Use a premium merino-wool and cashmere look with a clearly visible but tasteful fine cable-knit and ribbed texture. The knit must look soft, tactile and expensive, with realistic yarn fibres, subtle depth between stitches, natural folds around the shoulders and chest, and a restrained directional sheen. Use a rich forest/emerald tone around #145A40 — not bright green, not turquoise, and not black. The style should feel smart, artistic, masculine and quietly luxurious rather than casual sportswear. No badge, lanyard, visible brand, zipper, buttons, hoodie, flashy jewelry, undershirt collar, or patterns other than the elegant knitted texture.
+
+POSE AND EXPRESSION
+Exactly one person, chest-up portrait, standing straight and facing the camera. Calm, intelligent, confident and approachable expression with a very subtle natural smile. Shoulders relaxed. Keep both hands completely outside the frame to prevent anatomy errors.
+
+LIGHTING AND BACKGROUND
+Use cinematic but natural studio portrait lighting: a large soft key light, gentle fill, realistic catchlights, and a very subtle warm champagne-gold rim light separating the dark hair and emerald knitted pullover from the background. The light must reveal the sweater's real yarn texture without making it shiny or synthetic. Use a minimal deep forest-green to near-black studio gradient with an extremely subtle woven-textile atmosphere. No furniture, objects, scenery, event banners, mirror, car, flowers, phone, table, or original background.
+
+CAMERA AND COMPOSITION
+High-end editorial corporate photography, realistic skin pores and natural texture, 85mm portrait-lens look, shallow but believable depth of field. Vertical 4:5 composition, centered, with generous clean margin above the hair and around both shoulders. Do not crop the hair, ears, shoulders, or chin. The portrait must remain visually balanced inside a tall rounded-arch crop for a website hero section.
+
+COLOR DIRECTION
+Deep emerald knitted wool, forest green, near-black charcoal, warm ivory skin highlights, and restrained champagne-gold accents. Sophisticated, modern, masculine, artistic and understated luxury.
+
+STRICT CONSTRAINTS
+Exactly one person. No suit, blazer, dinner jacket, sport coat, lapels, tie, shirt collar, hoodie, zipper, buttons, text, logo, watermark, phone, selfie angle, visible hands, duplicate person, extra limbs, distorted anatomy, altered glasses, asymmetrical eyes, uncanny skin, plastic retouching, over-sharpening, illustration, painting, 3D-render appearance, cyberpunk lighting, bright neon green, turquoise clothing, costume-like styling, synthetic-looking fabric, or identity drift.
+
+Generate the final image at the highest available quality in a vertical 4:5 aspect ratio. This must be a new professional studio portrait based on the references, not a crop of any original photo.

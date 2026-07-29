@@ -1,0 +1,88 @@
+# sep.onwebs.ir — Apache / LiteSpeed config for shared hosting.
+# Safe defaults: every block is guarded by IfModule so a missing module on the
+# host degrades quietly instead of throwing a 500.
+
+# ---------- HTTPS ----------
+# Turn this on ONLY after AutoSSL has issued the certificate, otherwise the
+# site redirect-loops.
+# <IfModule mod_rewrite.c>
+#   RewriteEngine On
+#   RewriteCond %{HTTPS} off
+#   RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# </IfModule>
+
+
+# ---------- Default language on "/" ----------
+# The public root always opens the Persian edition. Visitors can still choose
+# any other language from the language menu.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^$ /fa/ [L,R=302]
+</IfModule>
+
+# ---------- Default document ----------
+DirectoryIndex index.html index.php
+
+# ---------- Compression ----------
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml
+  AddOutputFilterByType DEFLATE application/javascript application/x-javascript
+  AddOutputFilterByType DEFLATE application/json application/xml
+  AddOutputFilterByType DEFLATE image/svg+xml font/ttf font/otf application/x-font-ttf
+</IfModule>
+
+# ---------- Caching ----------
+# Hashed query strings (?v=N) handle busting for css/js, so they can cache long.
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault                          "access plus 1 month"
+  ExpiresByType text/html                 "access plus 0 seconds"
+  ExpiresByType text/css                  "access plus 1 year"
+  ExpiresByType application/javascript    "access plus 1 year"
+  ExpiresByType image/webp                "access plus 1 year"
+  ExpiresByType image/png                 "access plus 1 year"
+  ExpiresByType image/jpeg                "access plus 1 year"
+  ExpiresByType image/svg+xml             "access plus 1 year"
+  ExpiresByType font/ttf                  "access plus 1 year"
+  ExpiresByType application/x-font-ttf    "access plus 1 year"
+  ExpiresByType application/manifest+json "access plus 1 week"
+  ExpiresByType text/plain                "access plus 1 day"
+  ExpiresByType application/xml           "access plus 1 day"
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(css|js|webp|png|jpe?g|svg|ttf|woff2?)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  <FilesMatch "\.html$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+
+  # ---------- Security headers ----------
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+</IfModule>
+
+# ---------- MIME types some shared hosts still miss ----------
+<IfModule mod_mime.c>
+  AddType image/webp                 .webp
+  AddType font/ttf                   .ttf
+  AddType application/manifest+json  .webmanifest
+  AddType text/plain                 .txt
+</IfModule>
+
+# ---------- Protect internals ----------
+<FilesMatch "^\.(htaccess|smtp-config\.php|contact-fallback\.log)$">
+  Require all denied
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # the build tooling is never part of the deployed site
+  RewriteRule ^_src/ - [F,L]
+</IfModule>
+
+# ---------- Friendly 404 ----------
+ErrorDocument 404 /index.html

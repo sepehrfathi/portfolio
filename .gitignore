@@ -7,6 +7,13 @@
 # dependencies / build artifacts
 node_modules/
 *.zip
+__pycache__/
+*.py[cod]
+
+# private deployment credentials
+.smtp-config.php
+.env
+.env.*
 
 # old site backup (kept locally, not part of the site)
 _old_backup/

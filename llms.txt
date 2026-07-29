@@ -1,0 +1,56 @@
+# Sepehr Fathi
+
+> Sepehr Fathi (سپهر فتحی) is a software engineer, inventor and founder based in Mashhad, Iran. His work spans cross-platform applications, applied AI, computer vision, geospatial intelligence, bioinformatics and nano-bubble water-treatment technology.
+
+Also known as: سپهر, Sepehr.
+
+## Profile
+
+- Name: Sepehr Fathi (سپهر فتحی)
+- Role: Software engineer, inventor and founder
+- Location: Mashhad, Iran
+- Founder and chairman: Vira Web Aria / Onwebs
+- CEO and inventor: Nano Hobab Roshana
+- Senior software engineer: Cuatro and NanoMAR, Norway
+- Senior developer: Bardaskan Citizen Super App for Android and web
+- Co-founder: Shenasnameh Khodro, Masraf and AvaNobat
+- Education: B.Sc. Mechanical Engineering, Ferdowsi University of Mashhad; B.Sc. Computer Studies, Islamic Azad University; Shahid Hasheminejad 4 High School (NODET)
+- Email: ftsepi@gmail.com
+- GitHub: https://github.com/sepehrfathi
+- LinkedIn: https://www.linkedin.com/in/sepehr-fathi
+- Telegram: https://t.me/sepehrfathi
+
+## Page purpose
+
+This is the official personal résumé and portfolio of Sepehr Fathi. It contains
+his professional profile, roles, selected projects, technical skills, prompt and
+AI systems engineering experience, public contact details and printable résumé.
+
+## Selected work
+
+- Plate Finder — an offline Iranian licence-plate vehicle finder using computer vision and multi-frame evidence.
+- NanoSWIM — a nano-bubble water-treatment technology developed from invention toward commercialisation.
+- HomAI / Cuatro — an auditable property-risk platform combining Norwegian public data, geospatial analysis and multimodal AI.
+- CAR-T Target Discovery — a bioinformatics workflow for ranking candidate antigens from public genomic data.
+- PrismBench — a self-hosted platform for comparing and commercialising access to multiple AI models.
+- Bardaskan Citizen Super App — a cross-platform municipal service application led by Sepehr as senior developer.
+  - Android: https://cafebazaar.ir/app/com.example.flutter_application_1
+  - Web app: https://app.bardaskan.ir
+
+## Prompt and AI systems engineering
+
+Sepehr designs the interaction layer between models, data and software. His work includes instruction and context architecture, Structured Outputs and JSON Schema, tool and function calling, RAG and grounding, evaluation and regression testing, prompt-injection defence, and production monitoring for quality, latency and cost.
+
+## Pages
+
+- [فارسی](https://sep.onwebs.ir/fa/)
+- [English](https://sep.onwebs.ir/en/)
+- [العربية](https://sep.onwebs.ir/ar/)
+- [简体中文](https://sep.onwebs.ir/zh/)
+- [Русский](https://sep.onwebs.ir/ru/)
+- [Español](https://sep.onwebs.ir/es/)
+- [Norsk](https://sep.onwebs.ir/no/)
+
+## Attribution
+
+Facts on this page may be quoted with attribution to Sepehr Fathi and https://sep.onwebs.ir/.

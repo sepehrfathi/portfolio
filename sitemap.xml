@@ -1,93 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sep.onwebs.dev/fa/</loc>
-    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.dev/fa/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.dev/en/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.dev/ar/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.dev/zh/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.dev/ru/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.dev/es/"/>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.dev/no/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.dev/fa/"/>
+    <loc>https://sep.onwebs.ir/fa/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.ir/fa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.ir/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.ir/ar/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.ir/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.ir/ru/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.ir/es/"/>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.ir/no/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.ir/fa/"/>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sep.onwebs.dev/en/</loc>
-    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.dev/fa/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.dev/en/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.dev/ar/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.dev/zh/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.dev/ru/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.dev/es/"/>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.dev/no/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.dev/fa/"/>
+    <loc>https://sep.onwebs.ir/en/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.ir/fa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.ir/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.ir/ar/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.ir/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.ir/ru/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.ir/es/"/>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.ir/no/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.ir/fa/"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sep.onwebs.dev/ar/</loc>
-    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.dev/fa/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.dev/en/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.dev/ar/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.dev/zh/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.dev/ru/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.dev/es/"/>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.dev/no/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.dev/fa/"/>
+    <loc>https://sep.onwebs.ir/ar/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.ir/fa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.ir/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.ir/ar/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.ir/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.ir/ru/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.ir/es/"/>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.ir/no/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.ir/fa/"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sep.onwebs.dev/zh/</loc>
-    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.dev/fa/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.dev/en/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.dev/ar/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.dev/zh/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.dev/ru/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.dev/es/"/>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.dev/no/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.dev/fa/"/>
+    <loc>https://sep.onwebs.ir/zh/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.ir/fa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.ir/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.ir/ar/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.ir/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.ir/ru/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.ir/es/"/>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.ir/no/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.ir/fa/"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sep.onwebs.dev/ru/</loc>
-    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.dev/fa/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.dev/en/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.dev/ar/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.dev/zh/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.dev/ru/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.dev/es/"/>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.dev/no/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.dev/fa/"/>
+    <loc>https://sep.onwebs.ir/ru/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.ir/fa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.ir/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.ir/ar/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.ir/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.ir/ru/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.ir/es/"/>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.ir/no/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.ir/fa/"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sep.onwebs.dev/es/</loc>
-    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.dev/fa/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.dev/en/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.dev/ar/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.dev/zh/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.dev/ru/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.dev/es/"/>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.dev/no/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.dev/fa/"/>
+    <loc>https://sep.onwebs.ir/es/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.ir/fa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.ir/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.ir/ar/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.ir/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.ir/ru/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.ir/es/"/>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.ir/no/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.ir/fa/"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sep.onwebs.dev/no/</loc>
-    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.dev/fa/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.dev/en/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.dev/ar/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.dev/zh/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.dev/ru/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.dev/es/"/>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.dev/no/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.dev/fa/"/>
+    <loc>https://sep.onwebs.ir/no/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://sep.onwebs.ir/fa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sep.onwebs.ir/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sep.onwebs.ir/ar/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://sep.onwebs.ir/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sep.onwebs.ir/ru/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sep.onwebs.ir/es/"/>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://sep.onwebs.ir/no/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sep.onwebs.ir/fa/"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

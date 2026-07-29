@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sep.onwebs.dev/sitemap.xml
+Sitemap: https://sep.onwebs.ir/sitemap.xml
